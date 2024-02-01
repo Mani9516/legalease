@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>
+<body
+    background-color:#1e222b>
     <header>
         <h1 class="h1">What You Want:</h1>
     </header>
