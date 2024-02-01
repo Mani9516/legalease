@@ -7,7 +7,6 @@
    
 </head>
     <body>
-
         <h1 style="
         margin-right: 1200px;
     ">What You Want:</h1>
@@ -15,17 +14,13 @@
     font-size: larger;
     margin-left: 100px;
     color:white;
-    background-color:transparent;
-
-
-">
+    background-color:transparent;">
 Document Creation</a></li>
     <li><a href="document scanning.html" style="
         font-size: larger;
         margin-left: 100px;
         color:white;
-  background-color:transparent;
-   ">Document Detection</a></li>  
+  background-color:transparent;">Document Detection</a></li>  
     <li><a href="doc_detection.html" style="
         font-size: larger;
         margin-left: 100px;
