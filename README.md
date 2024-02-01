@@ -3,38 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: cursive;
-            background-color:#1e222b;
-        }
-        header {  
-            color: white;
-            padding: 10px ;
-            text-align: center;
-        }
-       .h1 {
-            margin-right: 1200px;
-            font-family: cursive;
-        }
-       li {
-            list-style-type: none;
-        }
-       li a {
-            font-size: larger;
-            margin-left: 100px;
-            color: white;
-            background-color: transparent;
-        }
-       img {
-            width: 100%;
-            height: auto;
-            display: block;
-            margin-top: 20px;
-        }
-    </style>
 </head>
 <body>
     <header>
