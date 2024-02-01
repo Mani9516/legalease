@@ -5,16 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="option.css">
     <title>Next</title>
-</head><body
->
-
-
+</head>
+    <body>
     <header>
         <h1 style="
         margin-right: 1200px;
     ">What You Want:</h1></header>
-    
-    <li><a href="https://legal-document-generator.onrender.com/" style="
+     <li><a href="https://legal-document-generator.onrender.com/" style="
     font-size: larger;
     margin-left: 100px;
     color:white;
@@ -23,24 +20,17 @@
 
 ">
 Document Creation</a></li>
-
-      <li><a href="document scanning.html" style="
+    <li><a href="document scanning.html" style="
         font-size: larger;
         margin-left: 100px;
         color:white;
-
-        background-color:transparent;
-   
-    
-    ">Document Detection</a></li>  
+  background-color:transparent;
+   ">Document Detection</a></li>  
     <li><a href="doc_detection.html" style="
         font-size: larger;
         margin-left: 100px;
         color:white;
-
-        background-color:transparent;
-   
-    
+  background-color:transparent;
     ">Document Scanning</a></li> 
   
   <img src="https://cdn.dribbble.com/users/411641/screenshots/5473987/2018-10-30_214814.gif";
