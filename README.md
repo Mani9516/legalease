@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="option.css">
-    <title>Next</title>
+   
 </head>
     <body>
-    <header>
+
         <h1 style="
         margin-right: 1200px;
-    ">What You Want:</h1></header>
+    ">What You Want:</h1>
      <li><a href="https://legal-document-generator.onrender.com/" style="
     font-size: larger;
     margin-left: 100px;
