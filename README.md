@@ -14,8 +14,7 @@
     background-color: #1e222b;
 }
     >
-        <h1 class="h1">What You Want:</h1>
-    </header>
+        <h1>What You Want:</h1>
       <nav>
         <ul>
             <li><a href="https://legal-document-generator.onrender.com/">Document Creation</a></li>
