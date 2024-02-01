@@ -5,10 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body
-        <h1 style="
-        margin-right: 1200px;
-    background-color:#1e222b; >
-    <header>
+    {
+    margin-right: 1200px;
+    background-color:#1e222b; 
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    background-color: #1e222b;
+}
+    >
         <h1 class="h1">What You Want:</h1>
     </header>
       <nav>
